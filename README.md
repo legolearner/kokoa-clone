@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update
+# Kokoa Clone 2020 
 
-Let's get started!!
+KakaoTalk Clone Coding - Html Css Preview
